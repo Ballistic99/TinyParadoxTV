@@ -1,0 +1,11 @@
+node_modules/
+studio/out/
+studio/public/*/mix.wav
+!studio/public/starter/mix.wav
+work/*/
+!work/example/
+tts/*.onnx
+tts/*.bin
+__pycache__/
+*.pyc
+.DS_Store

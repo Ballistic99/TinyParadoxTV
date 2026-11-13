@@ -1,0 +1,1 @@
+# One story per line, so the story-scout never picks one twice.
