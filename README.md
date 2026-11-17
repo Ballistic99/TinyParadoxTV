@@ -15,6 +15,8 @@ Six Claude agents split the work so nothing breaks:
 
 Made by **Tiny Paradox TV**: watch what it makes on [YouTube](https://www.youtube.com/@TinyParadoxTV) and [TikTok](https://www.tiktok.com/@tinyparadox.tv).
 
+Also on [Agensi](https://www.agensi.io/skills/tiny-paradox-studio-animated-true-story-shorts): install it straight into your agent.
+
 ---
 
 ## 1. Install (once, about 15 minutes)
